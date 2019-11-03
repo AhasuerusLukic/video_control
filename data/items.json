@@ -1,0 +1,19 @@
+{
+    "items":
+    {
+        "bbang": 
+        {
+            "url": "http://bbt.mp4v.club/Big.Bang.Theory.s%(season)02de%(episode)02d.BigBangSerial.ru.mp4",
+            "params": [ "season", "episode" ]
+        },
+        "lking":
+        {
+            "url": "/home/pi/The.Lion.King.WEB-DL.720p.TeamHD.mkv"
+        }
+        ,
+        "smesh":
+        {
+            "url": "https://www.youtube.com/watch?v=qhzf-DMUAh4&t=4702s"
+        }
+    }
+}
